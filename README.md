@@ -1,4 +1,4 @@
-# fraud-prediction-automl
+# Bank Account Fraud Prediction with AutoML
 This project explores the use of **AutoML**—specifically [FLAML](https://github.com/microsoft/FLAML) by Microsoft—to build and evaluate a predictive model for identifying fraudulent bank applications. 
 The goal is to test feasibility, address extreme class imbalance, and generate quick insights using minimal code.
 
